@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ce8f5d6-3fe2-46e0-b3b2-2a4c61dd92e3" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\ValueIteration.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\src\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\src\main\java\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\src\main\java\QLearning\LearningAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\src\main\java\QLearning\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\src\main\java\QLearning\State.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\QLearning\LearningAlgorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\QLearning\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\QLearning\State.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\ValueIteration\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\ValueIteration\target\classes\ValueIteration\State.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GridWorld.iml" afterPath="$PROJECT_DIR$/.idea/GridWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="D:\IdeaProjects\GridWorld\QLearning\src\main\java\META-INF\MANIFEST.MF" afterPath="" />
     </list>
     <ignored path="GridWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,8 +70,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17708333">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.53125">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -205,6 +190,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="QLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GridWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -620,12 +671,12 @@
       <workItem from="1448164346885" duration="7000" />
       <workItem from="1448230680504" duration="4117000" />
       <workItem from="1449631308395" duration="1730000" />
-      <workItem from="1450161802410" duration="692000" />
+      <workItem from="1450161802410" duration="936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80018000" />
+    <option name="totallyTimeSpent" value="80262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1112,8 +1163,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17708333">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.53125">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
