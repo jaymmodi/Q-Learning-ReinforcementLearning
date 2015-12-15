@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="GridWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GridWorld_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GridWorld.jar">
+        <element id="module-output" name="GridWorld" />
+      </element>
+    </root>
+  </artifact>
+</component>
